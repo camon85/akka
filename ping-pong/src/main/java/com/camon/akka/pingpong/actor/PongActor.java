@@ -6,7 +6,7 @@ import akka.event.Logging;
 import akka.event.LoggingAdapter;
 
 /**
- * Created by camon on 2016-11-23.
+ * 임의의 문자열 혹은 "ping" 메시지를 받으면 "pong" 메시지를 보내는 퐁 액터
  */
 public class PongActor extends UntypedActor {
 
