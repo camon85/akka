@@ -2,4 +2,8 @@ rootProject.name = 'akka'
 include 'ping-pong'
 include 'tree'
 include 'good-bad'
+include 'state'
+include 'router'
+include 'block-nonblock'
+include 'cluster'
 
