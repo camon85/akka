@@ -1,4 +1,5 @@
 rootProject.name = 'akka'
 include 'ping-pong'
 include 'tree'
+include 'good-bad'
 
